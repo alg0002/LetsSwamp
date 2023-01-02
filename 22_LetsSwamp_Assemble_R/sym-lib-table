@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name LetsSwamp)(type Legacy)(uri ${KIPRJMOD}/../@lib/symbols/LetsSwamp.lib)(options "")(descr ""))
+)
