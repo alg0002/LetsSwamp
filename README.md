@@ -28,6 +28,7 @@ Let's Swamp is an ortholinear split keyboard.
 ## 📃License
 
  * KiCad design files (in [`design`](./design/) directory) : MIT
+ * Firmware files (in [`firmware`](./firmware/) directory) : MIT
 <!--
  * Gerber files (in `gerber` directory)  : CC-BY-NC
 -->
