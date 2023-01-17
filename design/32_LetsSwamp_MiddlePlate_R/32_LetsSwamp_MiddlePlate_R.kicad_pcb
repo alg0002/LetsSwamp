@@ -2,7 +2,7 @@
 
   (general
     (thickness 1.6)
-    (drawings 879)
+    (drawings 883)
     (tracks 0)
     (zones 0)
     (modules 0)
@@ -101,6 +101,10 @@
     (uvia_drill 0.1)
   )
 
+  (gr_line (start -9.376164 56.257032) (end -9.376164 58.340576) (layer Edge.Cuts) (width 0.05) (tstamp 63C61FBE))
+  (gr_line (start -11.90624 58.340576) (end -9.376164 58.340576) (layer Edge.Cuts) (width 0.05))
+  (gr_line (start -11.90624 47.922616) (end -11.90624 58.340576) (layer Edge.Cuts) (width 0.05))
+  (gr_line (start -9.376164 47.922616) (end -11.90624 47.922616) (layer Edge.Cuts) (width 0.05))
   (gr_arc (start 29.472025 6.729701) (end 28.876713 6.729701) (angle -90) (layer Edge.Cuts) (width 0.05))
   (gr_arc (start 29.472026 -8.217983) (end 29.472026 -8.813295) (angle -90) (layer Edge.Cuts) (width 0.05))
   (gr_line (start 29.472026 7.325013) (end 30.956004 7.325013) (layer Edge.Cuts) (width 0.05))
@@ -692,7 +696,7 @@
   (gr_line (start 2.23242 54.471096) (end 4.911324 54.471096) (layer Edge.Cuts) (width 0.05) (tstamp 63929C82))
   (gr_line (start 4.911324 53.726956) (end 8.036712 53.726956) (layer Edge.Cuts) (width 0.05) (tstamp 63929C86))
   (gr_line (start 4.890228 50.303912) (end 4.890228 47.767968) (layer Edge.Cuts) (width 0.05) (tstamp 63929C89))
-  (gr_line (start -9.376164 52.833988) (end -9.376164 56.257032) (layer Edge.Cuts) (width 0.05) (tstamp 63929C83))
+  (gr_line (start -9.376164 47.922616) (end -9.376164 52.833988) (layer Edge.Cuts) (width 0.05) (tstamp 63929C83))
   (gr_line (start 8.036712 50.303912) (end 4.890228 50.303912) (layer Edge.Cuts) (width 0.05) (tstamp 63929C84))
   (gr_line (start 4.890228 47.767968) (end -4.93242 47.767968) (layer Edge.Cuts) (width 0.05) (tstamp 63929C94))
   (gr_line (start 2.23242 58.480187) (end 2.23242 54.471096) (layer Edge.Cuts) (width 0.05) (tstamp 63929C96))
