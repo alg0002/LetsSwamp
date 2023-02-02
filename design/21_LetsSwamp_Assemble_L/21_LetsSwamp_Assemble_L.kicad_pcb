@@ -87,7 +87,7 @@
       (mirror false)
       (drillshape 0)
       (scaleselection 1)
-      (outputdirectory "../../../Order/"))
+      (outputdirectory "../../../Order/21_LetsSwamp_Assemble_L_1.6mm/"))
   )
 
   (net 0 "")
@@ -3162,6 +3162,7 @@
       (net 34 COL0))
   )
 
+  (gr_arc (start 106.397756 -11.013291) (end 108.779008 -11.013291) (angle -90) (layer Edge.Cuts) (width 0.05) (tstamp 63DBC386))
   (gr_text "Designed by alglabnet" (at 0 69.94916) (layer F.SilkS) (tstamp 63B03640)
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -3200,7 +3201,7 @@
     (arrow2a (pts (xy -13.525008 75.306963) (xy -12.398504 75.893384)))
     (arrow2b (pts (xy -13.525008 75.306963) (xy -12.398504 74.720542)))
   )
-  (gr_text JLCJLCJLCJLC (at 76.199936 7.143744) (layer B.Fab)
+  (gr_text JLCJLCJLCJLC (at 76.199936 7.143744) (layer B.SilkS)
     (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
   )
   (gr_text v1.0 (at -6.548432 69.94916) (layer B.SilkS)
@@ -3257,7 +3258,6 @@
   (gr_line (start 106.397756 -13.394543) (end 91.943382 -13.394543) (layer Edge.Cuts) (width 0.05) (tstamp 6389C39E))
   (gr_line (start 108.779008 6.878578) (end 108.779008 -11.013291) (layer Edge.Cuts) (width 0.05) (tstamp 6389C39D))
   (gr_line (start -8.497324 71.58634) (end 103.751328 71.58634) (layer Edge.Cuts) (width 0.05) (tstamp 6389C39C))
-  (gr_arc (start 106.397756 -11.013291) (end 108.779008 -11.013291) (angle -90) (layer Edge.Cuts) (width 0.05) (tstamp 6389C2D9))
   (gr_line (start -2.122537 69.455804) (end -2.122537 59.455804) (layer B.SilkS) (width 0.12) (tstamp 6389C289))
   (gr_line (start 97.877463 59.455804) (end -2.122537 59.455804) (layer B.SilkS) (width 0.12) (tstamp 6387C783))
   (gr_line (start 97.877463 69.455804) (end 97.877463 59.455804) (layer B.SilkS) (width 0.12) (tstamp 63878FB2))

@@ -87,7 +87,7 @@
       (mirror false)
       (drillshape 0)
       (scaleselection 1)
-      (outputdirectory "../../../Order/"))
+      (outputdirectory "../../../Order/22_LetsSwamp_Assemble_R_1.6mm/"))
   )
 
   (net 0 "")
@@ -3162,6 +3162,7 @@
       (net 10 COL0))
   )
 
+  (gr_arc (start -11.143756 -11.013291) (end -13.525008 -11.013291) (angle 90) (layer Edge.Cuts) (width 0.05) (tstamp 63DBC386))
   (gr_line (start 103.776772 69.056192) (end 103.776772 70.6933) (layer B.SilkS) (width 0.12) (tstamp 63AFFFCE))
   (gr_line (start 99.163104 70.6933) (end 99.163104 69.056192) (layer B.SilkS) (width 0.12) (tstamp 63AFFFC8))
   (gr_line (start 103.776772 70.6933) (end 99.163104 70.6933) (layer B.SilkS) (width 0.12) (tstamp 63AFFFC4))
@@ -3200,7 +3201,7 @@
     (arrow2a (pts (xy -13.525008 75.306963) (xy -12.398504 75.893384)))
     (arrow2b (pts (xy -13.525008 75.306963) (xy -12.398504 74.720542)))
   )
-  (gr_text JLCJLCJLCJLC (at 19.049936 7.143744) (layer B.Fab)
+  (gr_text JLCJLCJLCJLC (at 19.049936 7.143744) (layer B.SilkS)
     (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
   )
   (gr_text v1.0 (at -6.548432 69.94916) (layer B.SilkS)
@@ -3257,7 +3258,6 @@
   (gr_line (start -11.143756 -13.394543) (end 3.310618 -13.394543) (layer Edge.Cuts) (width 0.05) (tstamp 6389C39E))
   (gr_line (start -13.525008 6.878578) (end -13.525008 -11.013291) (layer Edge.Cuts) (width 0.05) (tstamp 6389C39D))
   (gr_line (start 103.751324 71.58634) (end -8.497328 71.58634) (layer Edge.Cuts) (width 0.05) (tstamp 6389C39C))
-  (gr_arc (start -11.143756 -11.013291) (end -13.525008 -11.013291) (angle 90) (layer Edge.Cuts) (width 0.05) (tstamp 6389C2D9))
   (gr_line (start -4.662537 69.455804) (end -4.662537 59.455804) (layer B.SilkS) (width 0.12) (tstamp 6389C289))
   (gr_line (start 95.337463 59.455804) (end -4.662537 59.455804) (layer B.SilkS) (width 0.12) (tstamp 6387C783))
   (gr_line (start 95.337463 69.455804) (end 95.337463 59.455804) (layer B.SilkS) (width 0.12) (tstamp 63878FB2))
