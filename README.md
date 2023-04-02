@@ -1,6 +1,6 @@
 # Let's Swamp
 
-![Version](https://img.shields.io/badge/PCB%20Version-0.3-blue.svg)
+![Version](https://img.shields.io/badge/PCB%20Version-1.0-blue.svg)
 ![KiCAD design License:MIT](https://img.shields.io/badge/KiCAD%20design%20License-MIT-brightgreen.svg)
 <!-- ![Gerber:CC-BY-NC](https://img.shields.io/badge/Gerber%20License-CC--BY--NC-blue.svg) -->
 
@@ -29,9 +29,7 @@ Let's Swamp is an ortholinear split keyboard.
 
  * KiCad design files (in [`design`](./design/) directory) : MIT
  * Firmware files (in [`firmware`](./firmware/) directory) : MIT
-<!--
- * Gerber files (in `gerber` directory)  : CC-BY-NC
--->
+ * Gerber files (in `gerber` directory)  : MIT
  * Other files: MIT
  
 I have modified [Salicylic-acid3/KiCAD_FootPrint](https://github.com/Salicylic-acid3/KiCAD_FootPrint) to use in this project.
