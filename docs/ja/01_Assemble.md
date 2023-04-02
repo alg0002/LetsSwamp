@@ -180,7 +180,7 @@ M2 丸 6mm オネジメネジ x6x2
 
 **※この5-A.を行う場合、「5-B. ダイオード（表面実装タイプ）のはんだ付け」は不要です**
 
-![](https://placehold.jp/600x600.png?text=kiban_ura)  
+![](../images/kiban_ura.jpg)  
 基板を裏側（Let's Swampと書かれた側）が見える向きに置きます。   
 &nbsp;
 
@@ -191,24 +191,24 @@ M2 丸 6mm オネジメネジ x6x2
 ダイオードをD1からD50の各穴に差し込みます。なお、LEDテープを取り付けない場合はD49とD50には取り付け不要です。  
 &nbsp;
   
-![](https://placehold.jp/600x600.png?text=diode_muki)  
+![](../images/diode_muki.jpg)  
 ダイオードを差し込む際は向きに注意してください。基板に書かれた三角形の先端とダイオードの黒い方が合うようにします。  
 &nbsp;
 
-![](https://placehold.jp/600x600.png?text=diode_maste)  
+![](../images/diode_maste.jpg)  
 ダイオードを一通り差し込んだら、マスキングテープを貼り付けて固定します。  
 &nbsp;
 
-![](https://placehold.jp/600x600.png?text=kiban_omote)  
+![](../images/kiban_omote.jpg)  
 基板をひっくり返し、表が見える向きに置きます。  
 &nbsp;
 
-![](https://placehold.jp/600x600.png?text=diode_cut)  
+![](../images/diode_cut.jpg)  
 基板の表に飛び出したダイオードの足を、ニッパーで切り取ります。
 切り取る際は、足が飛んでいかないよう押さえながら切り取ってください。  
 &nbsp;
 
-![](https://placehold.jp/600x600.png?text=diode_solder)  
+![](../images/diode_solder.jpg)  
 ダイオードの足を基板にはんだ付けします。  
 &nbsp;
 
@@ -229,7 +229,7 @@ M2 丸 6mm オネジメネジ x6x2
 
 **※この6-A.を行う場合、「6-B. ピンソケットとピンヘッダーを使用して取り付け」は不要です**
 
-![](https://placehold.jp/600x600.png?text=conthrough)  
+![](../images/conthrogh.jpg)  
 RP2040-Zero1個につき、コンスルーをニッパー等で以下のように切り離します。
 
  * 2ピン x1
@@ -240,7 +240,7 @@ RP2040-Zero1個につき、コンスルーをニッパー等で以下のよう�
 切り離した端にバリが残っていたら、少し切り取ってある程度平らにしておきます。
 &nbsp;
 
-![](https://placehold.jp/600x600.png?text=conthrough_solder)  
+![](../images/conthrough_solder.jpg)  
 切り離したコンスルーをRP2040-Zeroにはんだ付けします。向きに気を付けてください。
 ボタンが無い面に差し込み、ボタンがある面にはんだ付けします。
 また、金色の点がRP2040-Zero側に近くなるようにします。
@@ -249,7 +249,7 @@ RP2040-Zero1個につき、コンスルーをニッパー等で以下のよう�
 
 **※この6-B.を行う場合、「6-A. コンスルーを使用して取り付け」は不要です**
 
-![](https://placehold.jp/600x600.png?text=pinsocket_cut)  
+![](../images/pinsocket_cut.jpg)  
 RP2040-Zero1個につき、ピンソケットをニッパー等で以下のように切り離します。
 
  * 2ピン x1
@@ -260,32 +260,35 @@ RP2040-Zero1個につき、ピンソケットをニッパー等で以下のよ�
 切り離した端にバリが残っていたら、少し切り取ってある程度平らにしておきます。
 &nbsp;
 
-![](https://placehold.jp/600x600.png?text=pinsocket_solder)  
+![](../images/pinsocket_solder.jpg)  
 切り離したピンソケットを基板に差し込みます。  
 &nbsp;
 
 ピンヘッダのピンをラジオペンチなどで引き抜きます。
 
-![](https://placehold.jp/600x600.png?text=pinsocket1)  
-その上にRP2040-Zeroを置き、ピンヘッダのピンを差し込みます。  
+![](../images/pinsocket1.jpg)  
+ピンソケットの上にRP2040-Zeroを置き、ピンヘッダのピンを差し込みます。  
 &nbsp;
 
-![](https://placehold.jp/600x600.png?text=pinsocket1)  
+![](../images/pinsocket1-2.jpg)  
 マスキングテープで固定します。
 
-![](https://placehold.jp/600x600.png?text=pinsocket1)  
-ピンソケットを基板にはんだ付けします。
+![](../images/pinsocket1-3.jpg)  
+ひっくり返して、ピンソケットを基板にはんだ付けします。
 
-![](https://placehold.jp/600x600.png?text=pinsocket2)  
-差し込んだピンをRP2040-Zeroにはんだ付けします。
+![](../images/pinsocket2.jpg)  
+またひっくり返して、差し込んだピンをRP2040-Zeroにはんだ付けします。
+
+![](../images/pinsocket2-2.jpg)  
+飛び出したピンをニッパーで切り取ります。破片が飛んでいかないよう、指で押さえながら切ってください。
 
 
 ## 7. TRRSジャックの取り付け
 
-![](https://placehold.jp/600x600.png?text=trrs)  
+![](../images/trrs.jpg)  
 基板裏の「TRRS」と書かれた場所に、TRRSジャックを差し込みます。
 
-![](https://placehold.jp/600x600.png?text=trrs-omote)
+![](../images/trrs-omote.jpg)
 基板をひっくり返し、表からはんだ付けします。
 
 ## 8. ミドルスイッチプレートの取り付け
@@ -294,7 +297,7 @@ RP2040-Zero1個につき、ピンソケットをニッパー等で以下のよ�
 
 ミドルスイッチプレートの保護シートを剥がします。
 
-![](https://placehold.jp/600x600.png?text=middle-kiban)  
+![](../images/middle-kiban.jpg)  
 写真を参考にして、ミドルスイッチプレートを両面テープで基板に貼り付けます。
 
 
@@ -304,13 +307,13 @@ RP2040-Zero1個につき、ピンソケットをニッパー等で以下のよ�
 
 **※この9-A.を行う場合、「9-B. キースイッチをはんだ付け」は不要です**
 
-![](/images/sq6_socket-yobihanda.jpg)
+![](../images/sq6_socket-yobihanda.jpg)
 基板の裏に、スイッチソケット用パッドがあります。そのパッドの片側に予備はんだ（少量のはんだを溶かして乗せておく）をします。
 
-![](/images/sq6_socketmuki.jpg)
+![](../images/sq6_socketmuki.jpg)
 スイッチソケットを乗せます。その際、スイッチソケットの向きに注意してください。スイッチソケットの枠の塗りつぶしが見える場合は向きが間違っています。
 
-![](/images/sq6_socket-handa.jpg)
+![](../images/sq6_socket-handa.jpg)
 予備はんだをはんだこてで溶かし、スイッチソケットをはんだ付けします。
 
 予備はんだしなかった方のパッドもはんだ付けします。
@@ -318,7 +321,7 @@ RP2040-Zero1個につき、ピンソケットをニッパー等で以下のよ�
 スイッチプレートの向きを確認します。
 基板のへこんでいるところにスイッチプレートのネジ穴がくるような向きが正しい向きです。
 
-![](/images/sq6_switchplate1.jpg)
+![](../images/sq6_switchplate1.jpg)
 スイッチプレートの穴にキースイッチを差し込みます。
 キースイッチの金属足が上にくるように差し込みます。
 
@@ -330,12 +333,13 @@ RP2040-Zero1個につき、ピンソケットをニッパー等で以下のよ�
 
 **※この9-B.を行う場合、「9-A. キースイッチソケットをはんだ付けしてスイッチを取り付け」は不要です**
 
-![](/images/sq6_switchplate1.jpg)
+![](switchplate1-solder)
 トッププレートの穴にキースイッチを差し込み、さらに基板にキースイッチを差し込みます。
 キースイッチの金属足が下にくるように差し込みます。
 
 LEDテープを取り付ける場合は、キースイッチの金属足の出っ張った部分を切っておきます。
 
+![](/images/switch_solder.jpg)
 キースイッチを基板にはんだ付けします。
 
 
